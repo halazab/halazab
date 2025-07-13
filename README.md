@@ -48,40 +48,6 @@ I'm a passionate Full Stack Developer based in Addis Ababa, Ethiopia, specializi
 
 </div>
 
-## 🌟 Featured Projects
-
-### 1. [Upwork Clone](https://upwork-tuf3.onrender.com/)
-A full-featured freelancing platform clone with advanced features:
-- Task posting and bidding system
-- Secure payment integration
-- Real-time messaging
-- User profiles and ratings
-- Task management dashboard
-
-### 2. [Online Examination System](https://oes-nk2r.onrender.com/)
-A comprehensive examination platform featuring:
-- AI-powered proctoring system
-- Real-time results and analytics
-- Multiple exam types support
-- Secure authentication
-- Performance tracking
-
-### 3. [ERP Management System](https://erp-gjx6.onrender.com/)
-Enterprise Resource Planning system with:
-- Inventory management
-- User role management
-- Reporting and analytics
-- Resource allocation
-- Business process automation
-
-### 4. [Personal Portfolio](https://haileab.onrender.com/)
-A modern, responsive portfolio website showcasing:
-- Project showcases
-- Skills and expertise
-- Blog section
-- Contact form
-- Interactive UI elements
-
 ## 📊 GitHub Stats
 
 <div align="center">
